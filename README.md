@@ -49,9 +49,11 @@ In an era where accuracy and security are paramount, manual auditing can be time
 
 ## 💻 Tech Stack
 
-* **Frontend:** Streamlit
-* **Backend:** Python
-* **AI/ML:** LangChain, OpenAI/Gemini API, FAISS
+* **Frontend & UI:** [Streamlit](https://streamlit.io/)
+* **Core Language/Backend:** Python
+* **AI & Orchestration:** [LangChain](https://www.langchain.com/),OpenAI/Gemini API, FAISS
+* **Vector Database:** [FAISS](https://faiss.ai/) (Facebook AI Similarity Search) for efficient similarity search and clustering of dense vectors.
+* **Architecture:** Retrieval-Augmented Generation (RAG) Pipeline
 * **Deployment:** Vercel / Render / Streamlit Cloud
 
 ---
