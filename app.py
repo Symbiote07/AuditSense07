@@ -14,7 +14,7 @@ from langchain_core.prompts import PromptTemplate
 load_dotenv()
 
 # Configure the Google GenAI library with the key from your .env file
-genai.configure(api_key=os.getenv("AIzaSyBDHMZTCGwmELmDZXBt3cAUhfszR6WkVOk"))
+genai.configure(api_key=os.getenv("GoogleAPI Key"))
 
 # 2. Function to extract text from the uploaded PDFs
 def get_pdf_text(pdf_docs):
