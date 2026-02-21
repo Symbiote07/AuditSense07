@@ -14,7 +14,7 @@ Here are some sample interactions with the AuditSense platform.
 ### Sample Analysis 1: Content Extraction
 In this example, the user asks for the general content of the uploaded document, and AuditSense provides a detailed, structured summary of the application form.
 
-![AuditSense Content Extraction Sample](image_0.png)
+![AuditSense Content Extraction Sample](https://github.com/Symbiote07/AuditSense07/blob/main/Screenshot%202026-02-14%20180510.png)
 
 ### Sample Analysis 2: Specific Data Point Retrieval
 Here, the user asks a specific question about the applicant's date of birth, and AuditSense accurately extracts the exact date from the document.
