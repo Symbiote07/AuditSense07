@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Live_URL-brightgreen.svg)](YOUR_LIVE_URL_HERE)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **AuditSense** is a comprehensive, automated platform designed to streamline the auditing process, enhance security, and ensure compliance through deep analytical insights.
+> **AuditSense** is a comprehensive, automated platform designed to streamline the auditing process, enhance security, and ensure compliance through deep analytical insights.AuditSense is a Generative AI application designed to streamline the manual audit process. Instead of humans reading thousands of pages of financial reports, the tool uses Retrieval-Augmented Generation (RAG) to autonomously ingest PDF documents (like Annual Reports or Compliance Contracts) and answer complex queries with high accuracy, reducing document review time by up to 40%.
 
 ---
 
