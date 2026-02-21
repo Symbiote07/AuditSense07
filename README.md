@@ -49,8 +49,6 @@ In an era where accuracy and security are paramount, manual auditing can be time
 
 ## 💻 Tech Stack
 
-*(Note: Update this list to match the actual technologies you used)*
-
 * **Frontend:** Streamlit
 * **Backend:** Python
 * **AI/ML:** LangChain, OpenAI/Gemini API, FAISS
