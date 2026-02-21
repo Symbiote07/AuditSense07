@@ -19,7 +19,7 @@ In this example, the user asks for the general content of the uploaded document,
 ### Sample Analysis 2: Specific Data Point Retrieval
 Here, the user asks a specific question about the applicant's date of birth, and AuditSense accurately extracts the exact date from the document.
 
-![AuditSense DOB Retrieval Sample](image_1.png)
+![AuditSense DOB Retrieval Sample](https://github.com/Symbiote07/AuditSense07/blob/main/Screenshot%202026-02-14%20180611.png)
 
 ---
 
