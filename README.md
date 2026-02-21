@@ -27,7 +27,7 @@ Here, the user asks a specific question about the applicant's date of birth, and
 
 Experience AuditSense in action. Watch the demo video below to see the full workflow of uploading a document and getting instant answers.
 
-[![AuditSense Demo Video](https://img.youtube.com/vi/placeholder/0.jpg)](video.mp4)
+[![AuditSense Demo Video](https://github.com/user-attachments/assets/065a711a-245f-444e-898e-b507e2aa51e0)](video.mp4)
 
 *Click the image above to play the video, or [click here to view the live application](YOUR_LIVE_URL_HERE).*
 
